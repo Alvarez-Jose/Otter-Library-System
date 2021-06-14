@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string-array name="planets_array">
+        <item>Memoir</item>
+        <item>Fiction</item>
+    </string-array>
+</resources>
